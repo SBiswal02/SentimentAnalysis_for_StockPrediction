@@ -1,6 +1,6 @@
 # Sentiment Analysis for Stock Prediction
 
-A project that combines sentiment analysis of financial news with technical indicators to predict stock price movements using multiple algorithms including Bi-LSTM, SVM, and Random Forest and the comparision of them.
+A project that combines sentiment analysis of financial news with technical indicators to predict stock price movements using multiple algorithms including BiLSTM, SVM, and Random Forest and the comparision of them.
 
 ## 🔍 Overview
 
